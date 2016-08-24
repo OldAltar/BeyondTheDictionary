@@ -1,2 +1,2 @@
 # BeyondTheDictionary
-This is a easy edition to read of BeyongTheDictionary.
+This is a easy edition for reading of BeyongTheDictionary.
